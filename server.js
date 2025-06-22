@@ -12,7 +12,9 @@ const channels = {
   '3': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/187263.m3u8',
   '4': 'http://ptu.ridsys.in/riptv/live/stream20/index.m3u8',
   '5': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/400157873.m3u8',
-  '6': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/400157873.m3u8'
+  '6': 'https://allinonereborn.com/sony-liv/index.php?ch=ten4hd&id=2020589',
+  '7': 'https://allinonereborn.com/sony-liv/index.php?ch=SonyYaySD&id=2011746',
+  '8': 'https://allinonereborn.com/sony-liv/index.php?ch=TEN1HD&id=2011747'
 };
 
 app.get('/box.ts', (req, res) => {
